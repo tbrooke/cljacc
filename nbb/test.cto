@@ -1,0 +1,7 @@
+concept Person identified by name  {
+  o String name
+  o Address address optional
+  @description("Height (cm)")
+  o Double height range=[0,]
+  o DateTime dateOfBirth 
+}

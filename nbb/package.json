@@ -1,0 +1,15 @@
+{
+  "name": "cljacc",
+  "version": "1.0.0",
+  "description": "Cljs Concerto Interop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TMB",
+  "license": "ISC",
+  "dependencies": {
+    "@accordproject/concerto-core": "^3.2.0",
+    "readfilesync": "1.1.5"
+  }
+}
